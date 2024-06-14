@@ -1,6 +1,6 @@
-# SimpleCalculatorApp
+# CalculatorApp
 
-SimpleCalculatorApp is a basic calculator application for Android devices, built using Android Studio and Java. The app allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
+CalculatorApp is a basic calculator application for Android devices, built using Android Studio and Java.
 
 ## Features
 
